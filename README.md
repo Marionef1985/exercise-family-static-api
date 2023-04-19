@@ -1,5 +1,5 @@
 <!-- hide -->
-# Family Static API
+# Family Static API by Marione
 <!-- endhide -->
 
 The Jackson Family needs a static API! We need to build the *data structures* and create API endpoint to interact with it using Postman.
